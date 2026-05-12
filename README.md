@@ -47,6 +47,13 @@ Sample Answer:
 “The Expense Split System is a full-stack project designed to manage shared expenses among users. The backend was built using Java, Spring Boot, MySQL, REST APIs, and Maven, while the frontend used HTML, CSS, and JavaScript.
 I implemented a layered architecture with controller, service, and repository layers. I developed more than 12 REST APIs for expense creation, settlement, user management, and authentication. I used Spring Data JPA and Hibernate for database interaction and JWT with Spring Security for stateless authentication and role-based access control. I also added input validation and exception handling to make the system robust.”
 ________________________________________
+
+7)How would you scale this Project
+Answer:
+“Currently the Split Expense project is a monolithic Spring Boot application with MySQL and JWT authentication. Initially, I would use vertical scaling by increasing server resources like CPU and RAM. As traffic grows, I would move to horizontal scaling by deploying multiple application instances behind a load balancer. I would optimize the database using indexing and read replicas, use Redis caching for frequently accessed balances and group data, and use Kafka or RabbitMQ for asynchronous tasks like notifications. Since JWT is stateless, any server can handle requests, which makes horizontal scaling easier. For large-scale deployment, I would containerize the application using Docker and manage scaling with Kubernetes.”
+
+--------------------------------------------------
+
 8) What was your exact role in the Expense Split System?
 Sample Answer:
 “I was mainly responsible for backend development, including designing REST APIs, implementing business logic in the service layer, integrating the MySQL database using JPA/Hibernate, and adding JWT-based authentication and authorization. I also contributed to frontend integration using HTML, CSS, and JavaScript.”
