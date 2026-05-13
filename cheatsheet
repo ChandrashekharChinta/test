@@ -1,0 +1,217 @@
+Here’s a single-page interview cheatsheet you can use for quick revision.
+
+SAP PM + ABAP Interview Cheatsheet
+Target Role: Custom Software Engineer
+Focus: SAP Plant Maintenance (PM) + ABAP Development for HANA
+
+1) 30-Second Introduction
+“I'm a SAP PM techno-functional professional with 8+ years of experience in manufacturing and plant maintenance environments. My core expertise includes SAP PM process design, equipment master, functional locations, preventive maintenance, work orders, breakdown workflows, master data migration, UAT, and SAP PM integration with MM and external plant systems. Along with functional expertise, I also have ABAP experience in reports, enhancements, interfaces, validations, and HANA-oriented development. I’ve worked on large-scale multi-site implementations, custom RICEFW objects, and business-driven automation that improved uptime, response time, and process efficiency.”
+
+2) Core Fit to JD
+Strong match
+SAP Plant Maintenance (PM)
+Application design/build/configure
+ABAP development support/customization
+Requirements gathering
+UAT + defect resolution
+Documentation
+Stakeholder management
+SME ownership
+Manufacturing domain
+Position yourself as
+SAP PM Techno-Functional Consultant / Custom Software Engineer
+
+3) Key SAP PM Areas
+Equipment Master
+Functional Locations
+Preventive Maintenance Plans
+Breakdown Maintenance
+Notifications
+Work Orders
+Task Lists
+BOM / Asset hierarchy
+Maintenance KPIs: MTBF, MTTR
+PM-MM integration
+PM-SCADA/DCS integration
+Authorizations / SoD
+Master data migration
+4) ABAP / Technical Talking Points
+ABAP work you can confidently mention
+Custom reports
+Enhancements
+BADIs / User exits
+Validations
+Interfaces
+Data upload / conversion support
+RICEFW development
+Defect debugging
+Technical specs
+Performance optimization
+ABAP for HANA keywords
+Push-down logic
+Efficient Open SQL
+CDS Views
+Avoid SELECT *
+Avoid nested selects
+Set-based processing
+Performance tuning
+SQL Trace / Runtime analysis
+Minimize application-layer loops
+5) Must-Say Tools / Technologies
+SAP / ERP
+SAP PM
+SAP MM
+SAP Ariba
+RAMCO ERP
+SAP ECC / S/4HANA (PM)
+Technical / Reporting
+ABAP
+SQL
+Python
+Power BI
+Tableau
+MS SQL Server
+Delivery / Collaboration
+Jira
+SharePoint
+Power Apps
+Figma
+Methodologies
+Agile / Scrum
+Lean
+DMAIC
+UAT governance
+Change management
+Fit-gap analysis
+BRD / FRS / SOP documentation
+6) Key Numbers to Remember
+Use these naturally in answers.
+
+8+ years total experience
+2 integrated plants
+6 business units
+40+ RICEFW functional specifications
+35,000+ asset records migrated
+99.5% migration accuracy
+120+ users in UAT
+95% defects resolved within SLA
+97% first-time-pass rate in UAT
+10+ JAD sessions
+8 Power BI dashboards
+40 hrs/month manual reporting eliminated
+50+ sensor alert types integrated to work orders
+28% faster breakdown response time
+35% reduction in unplanned downtime
+180+ users trained
+90%+ certification pass rate
+4 functional towers
+18-month multi-site program
+0 escalations to steering committee
+1,000+ equipment records at JSW
+1,000+ material master records
+30+ suppliers onboarded in SAP Ariba
+20% procurement cost reduction
+15% maintenance budget savings
+10% operational expense reduction
+26% reduction in unplanned downtime at JSW
+7) Best Project Highlights
+UltraTech Cement
+Led SAP PM requirements for 2 plants
+Defined PM plans, work orders, breakdown workflows
+Created/managed 40+ RICEFW specs
+Migrated 35,000+ records at 99.5% accuracy
+Ran UAT for 120+ users
+Built 8 Power BI dashboards
+Defined PM-SCADA/DCS integration
+Reduced response time by 28%
+Reduced downtime by 35%
+Trained 180+ users
+Maintained zero escalations
+JSW Cement
+Built 1,000+ equipment master records
+Managed 1,000+ material masters
+Supported SAP PM implementation across 2 sites
+Onboarded 30+ suppliers in Ariba
+Reduced procurement cost by 20%
+Saved 15% maintenance budget
+Reduced downtime by 26%
+8) Key Techniques to Mention
+Requirements elicitation
+Fit-gap analysis
+Process mapping
+JAD workshops
+BRD / FRS creation
+RICEFW design
+UAT planning and execution
+SLA-based defect triage
+Root cause analysis
+Lean / DMAIC
+Master data governance
+Cross-functional coordination
+Change management
+User training / SOP creation
+9) Answers to Reuse for Common Questions
+Why are you a fit?
+“I combine SAP PM functional depth with ABAP technical capability, so I can understand business requirements and translate them into scalable custom solutions.”
+
+Tell me about your ABAP experience
+“I’ve worked on reports, enhancements, interfaces, validations, debugging, and technical support for PM-driven business requirements, with performance-conscious development aligned to HANA principles.”
+
+Why SAP PM?
+“My experience is grounded in real plant operations, so I understand both the business need and the system behavior needed to support maintenance excellence.”
+
+Strength
+“Strong SAP PM process knowledge, techno-functional delivery, documentation, UAT, and stakeholder management.”
+
+Weakness
+“I continue to deepen modern HANA-optimized development patterns to strengthen already solid ABAP and PM delivery experience.”
+
+10) PM + ABAP Technical Themes to Revise
+Equipment vs Functional Location
+Preventive vs Breakdown maintenance
+Notification to Work Order lifecycle
+PM integration with MM
+PM reporting needs
+Enhancements in PM transactions
+Authorization / SoD basics
+Master data quality importance
+Data migration validation
+CDS views basics
+HANA performance best practices
+Debugging approach
+Report optimization approach
+11) Quick STAR Story Bank
+Story 1: UAT success
+Situation: Multi-site SAP PM rollout
+Task: Ensure testing readiness
+Action: Wrote scripts, triaged defects, aligned teams
+Result: 95% SLA resolution, 97% first-time-pass, smooth go-live
+
+Story 2: Data migration
+Situation: Large-scale asset migration
+Task: Ensure clean cutover
+Action: Cleansing, mapping, validation, reconciliation
+Result: 35,000+ records, 99.5% accuracy
+
+Story 3: Process improvement
+Situation: High downtime and slow response
+Task: Improve maintenance process
+Action: PM workflow redesign + SCADA integration
+Result: 28% faster response, 35% lower downtime
+
+Story 4: Cost savings
+Situation: High procurement and maintenance cost
+Task: Optimize planning
+Action: Predictive analysis, data-driven planning
+Result: 20% procurement savings, 15% maintenance budget savings
+
+12) Smart Questions to Ask Interviewer
+Is this role more functional, technical, or techno-functional?
+How much of the work is support vs enhancement vs implementation?
+Is the landscape ECC or S/4HANA?
+How heavily is SAP PM integrated with MM and external systems?
+What are the main current challenges—master data, reporting, performance, or custom development?
+What are the expectations in the first 3 months?
+13) Final Positioning Statement
+Say this near the end:
+“I bring a combination of SAP PM domain expertise, ABAP technical capability, manufacturing process understanding, and strong delivery discipline. I can gather requirements, design solutions, contribute to custom development, support testing, and ensure the final solution creates measurable business value.”
